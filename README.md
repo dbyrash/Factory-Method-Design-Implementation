@@ -1,4 +1,4 @@
-### design_pattern_assign2
+### design pattern- Factory Mathod 
 
 ## Party Order
 
